@@ -1,5 +1,4 @@
 Name: Kishore Sudhir
-Student ID: s3971501
 
 Overview
 This project implements a personalized recommendation system using the Weighted Slope One algorithm with the introduction of user similarity.
